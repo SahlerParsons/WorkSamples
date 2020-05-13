@@ -1,0 +1,44 @@
+SmellyFace
+Fox
+123
+5521 n sabino
+tucson
+az
+87654
+3330908
+45.67
+11/11/2011 12:00:00 AM
+1
+Parsons
+Margaret
+432
+1500 Orange Ave
+Coronado
+CA
+98765
+18009997654
+12.12
+1/7/2018 12:00:00 AM
+2
+Monger
+Tilly
+852
+#1 Snore lane
+Loudville
+AZ
+94768
+9876543576
+0.12
+5/6/1978 12:00:00 AM
+3
+DaChicken
+Stoopidcat
+666
+Scratchy lane
+San Diego
+CA
+94768
+9877899878
+0
+1/1/2011 12:00:00 AM
+4

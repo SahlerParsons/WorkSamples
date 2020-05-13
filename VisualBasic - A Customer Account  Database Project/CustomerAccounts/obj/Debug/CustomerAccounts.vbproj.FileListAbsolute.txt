@@ -1,0 +1,34 @@
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.exe.config
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.exe
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.pdb
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.xml
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.MainForm.resources
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.AddForm.resources
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.Resources.resources
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.vbproj.GenerateResource.Cache
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.exe
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.xml
+C:\Users\wedel\Desktop\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.pdb
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.exe.config
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.exe
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.xml
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.pdb
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.exe
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.pdb
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.xml
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.MainForm.resources
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.AddForm.resources
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.Resources.resources
+C:\Users\wedel\Desktop\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.vbproj.GenerateResource.Cache
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.exe.config
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.exe
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.pdb
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\bin\Debug\CustomerAccounts.xml
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.MainForm.resources
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.AddForm.resources
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.Resources.resources
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.vbproj.GenerateResource.Cache
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.vbproj.CoreCompileInputs.cache
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.exe
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.xml
+C:\Users\wedel\Desktop\CIS159\Lesson 12 159 Final\CustomerAccounts\CustomerAccounts\obj\Debug\CustomerAccounts.pdb

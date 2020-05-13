@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAccounts", "CustomerAccounts\CustomerAccounts.vbproj", "{406D346D-B58F-44E4-A9C2-DF1DD1C6386E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406D346D-B58F-44E4-A9C2-DF1DD1C6386E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406D346D-B58F-44E4-A9C2-DF1DD1C6386E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406D346D-B58F-44E4-A9C2-DF1DD1C6386E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406D346D-B58F-44E4-A9C2-DF1DD1C6386E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
