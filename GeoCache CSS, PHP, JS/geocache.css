@@ -1,0 +1,66 @@
+/* James Sahler Parsons CSCV 337 Final Project April 27th, 2019.  Geocaching CSS */
+
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+
+main {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows:  1fr;
+    grid-column-gap: 3vw;
+    grid-row-gap: 1vw;
+}
+
+.formWindow {
+    text-align: center;
+        font-size: 12pt;
+}
+
+.textarea {
+    width: 100px;
+    height: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 14pt;
+}
+
+#radius {
+    height: 20px;
+}
+
+table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 1em;
+}
+.left-col{
+    width: 1fr;
+    float:left;
+}
+.right-col{
+    width: 2fr;
+    float:left;
+}
+.mapWindow{
+    height: 100vh;
+    width: 100%;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+} 
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+} 
+
+
