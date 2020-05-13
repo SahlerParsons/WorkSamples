@@ -1,0 +1,45 @@
+<!-- 
+    INFV 310 Final Project James Sahler Parsons & Zach Barriga, April 20th, 2019.
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Kampus Kops</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link href="KampusKops.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="page-frame" id="screen">
+        <main>
+            <div class="pane" id="breaking"> Breaking!!<div id="innerBreaking"></div></div>
+            <div id="mainMapDiv"><img id="mainMap" src="UAMapPhotoshop.png"></div>
+            <div class="pane" id="currentJobs">Current Jobs<div id="innerCurrentJobs"></div></div>
+            <div  id="highScore" class="pane">High Score</div>
+            <div class="pane" id="icon">
+                <div class="iconBar" id="copSpace"><img class="icon" id="cop" src="images/Cop.png" /></div>
+                <div class="iconBar" id="detectiveSpace"><img class="icon" id="detective" src="images/detective.jpg" /></div>
+                <div class="iconBar" id="squadCarSpace"><img class="icon" id="squadCar" src="images/squadCar.jpg" /></div>
+                <div class="iconBar" id="helicopterSpace"><img class="icon" id="helicopter" src="images/helicopter.jpg" /></div>
+                <div class="iconBar" id="tankSpace"><img class="icon" id="tank" src="images/tank.png" /></div>
+            </div>
+            <div class="pane" id="currentScore">Current Score<br><span id="currentScoreScore"></span></div>
+            <div id="pane"><Button id="startButton">Start</Button></div>
+            <div id="timeLeft" class="pane">Time Remaining:<br><span id="countdownTimer"></span></div>
+            <div id="pane"><Button id="endButton">End Game Early</Button></div>
+        </main>
+    </div>
+        <script src="KampusKops.js"></script>
+</body>
+
+</html>
+
+
+<!--
+    <img class="icon" id="cop" src="images/Cop.png" />
+                <img class="icon" id="detective" src="images/detective.jpg" />
+                <img class="icon" id="squadCar" src="images/squadCar.jpg" />
+                <img class="icon" id="helicopter" src="images/helicopter.jpg" />
+                <img class="icon" id="tank" src="images/tank.png" />-->
