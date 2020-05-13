@@ -1,0 +1,11 @@
+customerID,FirstName,LastName,BirthDate,Address,Phone,Email
+1,Amy,Adams,1980-01-01,"1 Happy Street, Happytown, AZ, 85765",5551111,amy@customer.com
+2,Bobby,Blake,1981-02-02,"2 Beaver Lane, Benchley, AZ, 85793",5552222,bobby@customer.com
+3,Charlie,Chaplin,1982-03-03,"3 Chucky Court, Cranberry, AZ, 85732",5553333,charlie@customer.com
+4,Derrick,Dennison,1983-04-04,"4 Dopey Lane, Denver, AZ, 85867",5554444,derrick@customer.com
+5,Eddie,Eagle,1984-05-05,"5 Flying High Ave, Eagleton, AZ, 85742",5555555,eddie@customer.com
+6,Frankie,Fingers,1985-06-06,"6 Devil Ave, Satanicville, AZ, 85666",5556666,frankie@customer.com
+7,Gertrude,Gillies,1986-07-07,"7 Lucky st, Happyville, AZ, 85777",5557777,gertrude@customer.com
+8,Harry,Hines,1987-08-08,"8 Dallas St, Dallas, AZ, 85787",5558888,harry@customer.com
+9,Ingrid,Ingmar,1988-09-09,"9 Ninth st, Ninny, AZ, 85799",5559999,ingrid@customer.com
+10,James,Parsons,1973-12-30,"5521 N. Sabino, Tucson, 85749",2372434,jam2090280@maricopa.edu
